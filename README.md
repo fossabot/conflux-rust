@@ -1,5 +1,6 @@
 # Conflux-Rust
 [![Travis](https://travis-ci.com/Conflux-Chain/conflux-rust.svg?branch=master)](https://travis-ci.com/Conflux-Chain/conflux-rust#)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeilun-conflux%2Fconflux-rust.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeilun-conflux%2Fconflux-rust?ref=badge_shield)
 
 Conflux-rust is a rust-based implementation of Conflux protocol, it is fast and reliable. Please follow the [Conflux Documentation](https://conflux-chain.github.io/conflux-doc/) to [build](https://conflux-chain.github.io/conflux-doc/install/) and [run](https://conflux-chain.github.io/conflux-doc/get_started/) Conflux.
 
@@ -23,3 +24,5 @@ Here are some guidelines before you start:
 ## License
 
 [GNU General Public License v3.0](https://github.com/Conflux-Chain/conflux-rust/blob/master/LICENSE)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeilun-conflux%2Fconflux-rust.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeilun-conflux%2Fconflux-rust?ref=badge_large)
